@@ -1,0 +1,41 @@
+---
+title: "Literate Programming I"
+author: "Jerid Francom"
+date-modified: today
+format: html
+---
+
+# Literate Programming
+
+Literate programming is an approach to programming in which prose and executable code can be intermingled. This is useful for: 
+
+1. documenting code and project files. 
+2. making your work transparent to others. 
+
+# Quarto 
+
+Quarto is a tool for implementing literate programming. You can write prose in Markdown format and include code 'chunks' in any programming language in the same document. The document can then be converted into, known as rendering, any number of document formats such as *Markdown*, *HTML*, *PDF*, *DOCX*, etc.
+
+```{r}
+#| label: lab-1-test-chunk-1
+#| message: false
+
+print("Hello world!")
+```
+
+```{r}
+#| label: lab-1-test-chunk-2
+#| message: false
+
+library(tidyverse) # load tidyverse
+
+mtcars |> # call `mtcars` dataset
+  glimpse() # preview dataset
+```
+
+
+# What did I learn?
+
+I learned how to create a Quarto document and how to use both Markdown formatting and code chunks. The most challenging thing was actually just remembering what the code chunk options were. I didn't look at any other websites to get help, but I will explore other resources next time. 
+
+I'd love to know if I can use Quarto to make slide presentations and websites. 
