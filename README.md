@@ -6,7 +6,7 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 
 ## Preparation
 
-- Read/ annotate: [Recipe \#1](https://lin380.github.io/tadr/articles/recipe_1.html). You can refer back to this document to help you at any point during this lab activity.
+- Read/ annotate: [Recipe \#0](https://qtalr.github.io/qtalrkit/articles/recipe-0.html). You can refer back to this document to help you at any point during this lab activity.
 
 ## Objectives
 
