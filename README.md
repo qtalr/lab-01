@@ -17,7 +17,7 @@ You can preview this README.md document by clicking the 'Preview' button in the 
 
 ## Objectives
 
-- 
+- ...
 
 ## Instructions
 
@@ -48,3 +48,7 @@ Some questions to consider:
 1. To prepare your lab report for submission on Canvas you will need to Knit your R Markdown document to PDF or Word. 
 2. Download this file to your computer.
 3. Go to the Canvas submission page for Lab #1 and submit your PDF/Word document as a 'File Upload'. Add any comments you would like to pass on to me about the lab in the 'Comments...' box in Canvas.
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
