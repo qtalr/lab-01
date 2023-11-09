@@ -1,0 +1,49 @@
+---
+title: "Academic writing with Quarto"
+author: "Jerid Francom"
+date-modified: today
+format:
+  pdf:
+    number-sections: true
+    toc: true
+bibliography: bibliography.bib
+---
+
+# Article summary
+
+## Research question
+
+@Bychkovska2017 investigates possible differences between L1-English and L1-Chinese undergraduate students' use of lexical bundles, multiword sequences which are extended collocations (i.e. as the result of), in argumentative essays. 
+
+## Data sources
+
+The authors used the Michigan Corpus of Upper-Level Student Papers (MICUSP) corpus using the argumentative essay section for L1-English and the Corpus of Ohio Learner and Teacher English (COLTE) for the L1-Chinese English essays. 
+
+## Methodology
+
+Using a frequency analaysis, the authors found that L1-Chinese writers used more than 2 times as many bundle types than L1-English peers, as seen in @tbl-bundles.
+
+| Corpus | Number of types | Number of tokens | Relative frequency (pww) |
+| ------ | --------------- | ---------------- | ------------------------ |
+| MICUSP | 23              | 337              | 1,530                    |
+| COLTE  | 52              | 404              | 3,846                    |
+
+: Number of lexical bundles in argumentative essays {#tbl-bundles}
+
+## Findings
+
+This finding is attributed to L1-Chinese writers attempt to avoid uncommon expressions and/or due to their lack of register awareness (conversation has more bundles than writing generally).
+
+# Self-assessment
+
+## Learning
+
+I learned how to find an academic article and use Quarto to provide a summary of the article which includes a citation and a table. Adding section numbering and a table of contents was the easiest part. Adding a citation, however, was more challenging. I had to find the correct syntax for the citation and then I had to find the BibTex reference on the site I found the article on. I also learned how to add a bibliography to the YAML header.
+
+I consulted the [Recipe](https://qtalr.github.io/qtalrkit/articles/recipe-1.html), the [Quarto website](https://quarto.org/docs/authoring/footnotes-and-citations.html), and the instructor. 
+
+## Next steps
+
+I would like to know more about how to create figures and plots. The Quarto website also has quite a bit of information on [adding figures and plots to a document](https://quarto.org/docs/authoring/figures.html). 
+
+# References {.unnumbered .unlisted}
