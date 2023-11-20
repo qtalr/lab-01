@@ -1,15 +1,8 @@
 # Lab 1: Academic writing with Quarto
 
 <!-- 
-
 - [ ] Create dev container
-
  -->
-
-
-<!-- NOTE: 
-You can preview this README.md document by clicking the 'Preview' button in the RStudio toolbar. The rendered document will appear in the 'Viewer' pane to the right as a formatted report.
--->
 
 ## Preparation
 
@@ -30,12 +23,12 @@ You can preview this README.md document by clicking the 'Preview' button in the 
   - Provide the title: "Academic writing with Quarto"
   - Provide the author: \<Your Name\>
 2. Render the Quarto document (without changes)
-  - Click the 'Knit' button on the RStudio toolbar
+  - Click the 'Render' button on the RStudio toolbar
   - Save the Quarto file with the name `lab-1.qmd`.
 
 ### Using Quarto for academic writing
 
-Using the academic article you found in the preparation for this lab, respond to the following questions in your `.qmd` document:
+1. Using the academic article you found in the preparation for this lab, respond to the following questions in your `.qmd` document:
 
 - What is the research question?
 - What is the data used to answer the research question?
