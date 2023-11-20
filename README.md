@@ -52,7 +52,7 @@ Some questions to consider:
   - What did you learn?
   - What did you find most/ least challenging?
   - What resources did you consult? 
-    - Instructor? Websites (provide links)?
+    - Instructor? Quarto documentation, Websites (provide links)?
   - What more would you like to know about literate programming and/ or Quarto?
     - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
 
