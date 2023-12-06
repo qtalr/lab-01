@@ -2,7 +2,11 @@
 
 <!-- 
 - [ ] Create dev container
- -->
+-->
+
+<!-- NOTE: 
+You can preview this README.md document by clicking the 'Preview' button in the RStudio toolbar. The rendered document will appear in the 'Viewer' pane to the right as a formatted report.
+-->
 
 ## Preparation
 
