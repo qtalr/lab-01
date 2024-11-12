@@ -2,7 +2,7 @@
 
 ## Preparation
 
-- Read/ annotate: [Recipe \#1](https://qtalr.github.io/qtalrkit/articles/recipe-1.html). You can refer back to this document to help you at any point during this lab activity.
+- Read/ annotate: [Recipe \#1](https://qtalr.com/resources/recipes/recipe-01/). You can refer back to this document to help you at any point during this lab activity.
 - Have an academic article dealing with text analysis ready to review. You will use this article to practice using Quarto for academic writing.\
 *If you do not find an article of interest, you can use:*\
 Bychkovska, Tetyana, and Joseph J. Lee. 2017. “At the Same Time: Lexical Bundles in L1 and L2 University Student Argumentative Writing.” *Journal of English for Academic Purposes* 30 (November): 38–52. <https://doi.org/10.1016/j.jeap.2017.10.008>.
